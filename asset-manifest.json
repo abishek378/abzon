@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abishek378/abzon/static/css/main.bd91f639.css",
+    "main.js": "/abishek378/abzon/static/js/main.c7de5c83.js",
+    "index.html": "/abishek378/abzon/index.html",
+    "main.bd91f639.css.map": "/abishek378/abzon/static/css/main.bd91f639.css.map",
+    "main.c7de5c83.js.map": "/abishek378/abzon/static/js/main.c7de5c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd91f639.css",
+    "static/js/main.c7de5c83.js"
+  ]
+}
