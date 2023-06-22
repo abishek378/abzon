@@ -8,12 +8,12 @@ import Home from '../Pages/Home/Home';
 const Router = () => {
   return (
 <HashRouter>
-<Routes>
+{/* <Routes> */}
 <Route path="/checkout" element={<Checkout />} />
       <Route path="/" element={<Login />} />
        <Route exact path="/header" element={<Header />} />
        <Route path="/home" element={<Home />} />
-</Routes>
+{/* </Routes> */}
 </HashRouter>
   )
 }
